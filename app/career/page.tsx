@@ -8,7 +8,7 @@ export default function Career() {
         <div className="text-center">
           <h1 className="text-4xl mt-16 font-bold mb-4">Join Our Team</h1>
           <p className="text-gray-600 mb-8">
-            We’re always looking for talented individuals to join our growing team.
+            We&rsquo;re always looking for talented individuals to join our growing team.
           </p>
         </div>
 
@@ -20,7 +20,7 @@ export default function Career() {
               Location: Remote | Full-Time
             </p>
             <p className="mt-4">
-              We're looking for a talented Frontend Developer to build exceptional
+              We&apos;re looking for a talented Frontend Developer to build exceptional
               user experiences.
             </p>
             <button className="mt-4 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition">
